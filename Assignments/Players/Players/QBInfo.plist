@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+    <dict>
+          <key>rank</key>
+          <string>1</string>
+          <key>playerName</key>
+          <string>Ryan Fitzpatrick</string>
+          <key>playerNumber</key>
+          <string>#14</string>
+          <key>teamCode</key>
+          <string>TB</string>
+          <key>teamName</key>
+          <string>Tampa Bay Buccaneers</string>
+          <key>physical</key>
+          <string>Height: 6-2   Weight: 223   Age: 35</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 11/24/1982 Gilbert , AZ</string>
+          <key>college</key>
+          <string>College: Harvard</string>
+          <key>experience</key>
+          <string>Experience: 14th season</string>
+          <key>highSchool</key>
+          <string>High School: Highland HS [Gilbert, AZ]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>2</string>
+          <key>playerName</key>
+          <string>Ben Roethlisberger</string>
+          <key>playerNumber</key>
+          <string>#7</string>
+          <key>teamCode</key>
+          <string>PIT</string>
+          <key>teamName</key>
+          <string>Pittsburgh Steelers</string>
+          <key>physical</key>
+          <string>Height: 6-5   Weight: 240   Age: 36</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 3/2/1982 Lima , OH</string>
+          <key>college</key>
+          <string>College: Miami (Ohio)</string>
+          <key>experience</key>
+          <string>Experience: 15th season</string>
+          <key>highSchool</key>
+          <string>High School: Findlay HS [OH]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>3</string>
+          <key>playerName</key>
+          <string>Drew Brees</string>
+          <key>playerNumber</key>
+          <string>#9</string>
+          <key>teamCode</key>
+          <string>NO</string>
+          <key>teamName</key>
+          <string>New Orleans Saints</string>
+          <key>physical</key>
+          <string>Height: 6-0   Weight: 209   Age: 39</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 1/15/1979 Austin , TX</string>
+          <key>college</key>
+          <string>College: Purdue</string>
+          <key>experience</key>
+          <string>Experience: 18th season</string>
+          <key>highSchool</key>
+          <string>High School: Westlake HS [Austin, TX]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>4</string>
+          <key>playerName</key>
+          <string>Kirk Cousins</string>
+          <key>playerNumber</key>
+          <string>#8</string>
+          <key>teamCode</key>
+          <string>MIN</string>
+          <key>teamName</key>
+          <string>Minnesota Vikings</string>
+          <key>physical</key>
+          <string>Height: 6-3   Weight: 202   Age: 30</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 8/19/1988 Barrington , IL</string>
+          <key>college</key>
+          <string>College: Michigan State</string>
+          <key>experience</key>
+          <string>Experience: 7th season</string>
+          <key>highSchool</key>
+          <string>High School: Holland Christian HS [MI]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>5</string>
+          <key>playerName</key>
+          <string>Jared Goff</string>
+          <key>playerNumber</key>
+          <string>#16</string>
+          <key>teamCode</key>
+          <string>LA</string>
+          <key>teamName</key>
+          <string>Los Angeles Rams</string>
+          <key>physical</key>
+          <string>Height: 6-4   Weight: 222   Age: 23</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 10/14/1994 San Rafael , CA</string>
+          <key>college</key>
+          <string>College: California</string>
+          <key>experience</key>
+          <string>Experience: 3rd season</string>
+          <key>highSchool</key>
+          <string>High School: Marin Catholic HS [Kentfield, CA]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>6</string>
+          <key>playerName</key>
+          <string>Derek Carr</string>
+          <key>playerNumber</key>
+          <string>#4</string>
+          <key>teamCode</key>
+          <string>OAK</string>
+          <key>teamName</key>
+          <string>Oakland Raiders</string>
+          <key>physical</key>
+          <string>Height: 6-3   Weight: 215   Age: 27</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 3/28/1991 Fresno , CA</string>
+          <key>college</key>
+          <string>College: Fresno State</string>
+          <key>experience</key>
+          <string>Experience: 5th season</string>
+          <key>highSchool</key>
+          <string>High School: Clements HS [Sugar Land, TX]; Bakersfield Christian HS [CA]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>7</string>
+          <key>playerName</key>
+          <string>Philip Rivers</string>
+          <key>playerNumber</key>
+          <string>#17</string>
+          <key>teamCode</key>
+          <string>LAC</string>
+          <key>teamName</key>
+          <string>Los Angeles Chargers</string>
+          <key>physical</key>
+          <string>Height: 6-5   Weight: 228   Age: 36</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 12/8/1981 Decatur , AL</string>
+          <key>college</key>
+          <string>College: North Carolina State</string>
+          <key>experience</key>
+          <string>Experience: 15th season</string>
+          <key>highSchool</key>
+          <string>High School: Athens HS [AL]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>8</string>
+          <key>playerName</key>
+          <string>Matt Ryan</string>
+          <key>playerNumber</key>
+          <string>#2</string>
+          <key>teamCode</key>
+          <string>ATL</string>
+          <key>teamName</key>
+          <string>Atlanta Falcons</string>
+          <key>physical</key>
+          <string>Height: 6-4   Weight: 217   Age: 33</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 5/17/1985 Exton , PA</string>
+          <key>college</key>
+          <string>College: Boston College</string>
+          <key>experience</key>
+          <string>Experience: 11th season</string>
+          <key>highSchool</key>
+          <string>High School: William Penn Charter School [Philadelphia, PA]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>9</string>
+          <key>playerName</key>
+          <string>Patrick Mahomes</string>
+          <key>playerNumber</key>
+          <string>#15</string>
+          <key>teamCode</key>
+          <string>KC</string>
+          <key>teamName</key>
+          <string>Kansas City Chiefs</string>
+          <key>physical</key>
+          <string>Height: 6-3   Weight: 230   Age: 23</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 9/17/1995 Tyler , TX</string>
+          <key>college</key>
+          <string>College: Texas Tech</string>
+          <key>experience</key>
+          <string>Experience: 2nd season</string>
+          <key>highSchool</key>
+          <string>High School: Whitehouse HS [TX]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>10</string>
+          <key>playerName</key>
+          <string>Matthew Stafford</string>
+          <key>playerNumber</key>
+          <string>#9</string>
+          <key>teamCode</key>
+          <string>DET</string>
+          <key>teamName</key>
+          <string>Detroit Lions</string>
+          <key>physical</key>
+          <string>Height: 6-3   Weight: 220   Age: 30</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 2/7/1988 Tampa , FL</string>
+          <key>college</key>
+          <string>College: Georgia</string>
+          <key>experience</key>
+          <string>Experience: 10th season</string>
+          <key>highSchool</key>
+          <string>High School: Highland Park HS [Dallas, TX]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>11</string>
+          <key>playerName</key>
+          <string>Joe Flacco</string>
+          <key>playerNumber</key>
+          <string>#5</string>
+          <key>teamCode</key>
+          <string>BAL</string>
+          <key>teamName</key>
+          <string>Baltimore Ravens</string>
+          <key>physical</key>
+          <string>Height: 6-6   Weight: 245   Age: 33</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 1/16/1985 Audubon , NJ</string>
+          <key>college</key>
+          <string>College: Delaware</string>
+          <key>experience</key>
+          <string>Experience: 11th season</string>
+          <key>highSchool</key>
+          <string>High School: Audubon HS [NJ]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>12</string>
+          <key>playerName</key>
+          <string>Deshaun Watson</string>
+          <key>playerNumber</key>
+          <string>#4</string>
+          <key>teamCode</key>
+          <string>HOU</string>
+          <key>teamName</key>
+          <string>Houston Texans</string>
+          <key>physical</key>
+          <string>Height: 6-2   Weight: 220   Age: 23</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 9/14/1995 Gainesville , GA</string>
+          <key>college</key>
+          <string>College: Clemson</string>
+          <key>experience</key>
+          <string>Experience: 2nd season</string>
+          <key>highSchool</key>
+          <string>High School: Gainesville HS [GA]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>13</string>
+          <key>playerName</key>
+          <string>Andy Dalton</string>
+          <key>playerNumber</key>
+          <string>#14</string>
+          <key>teamCode</key>
+          <string>CIN</string>
+          <key>teamName</key>
+          <string>Cincinnati Bengals</string>
+          <key>physical</key>
+          <string>Height: 6-2   Weight: 220   Age: 30</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 10/29/1987 Katy , TX</string>
+          <key>college</key>
+          <string>College: Texas Christian</string>
+          <key>experience</key>
+          <string>Experience: 8th season</string>
+          <key>highSchool</key>
+          <string>High School: Katy HS [TX]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>14</string>
+          <key>playerName</key>
+          <string>Aaron Rodgers</string>
+          <key>playerNumber</key>
+          <string>#12</string>
+          <key>teamCode</key>
+          <string>GB</string>
+          <key>teamName</key>
+          <string>Green Bay Packers</string>
+          <key>physical</key>
+          <string>Height: 6-2   Weight: 225   Age: 34</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 12/2/1983 Chico , CA</string>
+          <key>college</key>
+          <string>College: California</string>
+          <key>experience</key>
+          <string>Experience: 14th season</string>
+          <key>highSchool</key>
+          <string>High School: Pleasant Valley HS [Chico, CA]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>15</string>
+          <key>playerName</key>
+          <string>Eli Manning</string>
+          <key>playerNumber</key>
+          <string>#10</string>
+          <key>teamCode</key>
+          <string>NYG</string>
+          <key>teamName</key>
+          <string>New York Giants</string>
+          <key>physical</key>
+          <string>Height: 6-5   Weight: 218   Age: 37</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 1/3/1981 New Orleans , LA</string>
+          <key>college</key>
+          <string>College: Mississippi</string>
+          <key>experience</key>
+          <string>Experience: 15th season</string>
+          <key>highSchool</key>
+          <string>High School: Isidore Newman HS [New Orleans, LA]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>16</string>
+          <key>playerName</key>
+          <string>Alex Smith</string>
+          <key>playerNumber</key>
+          <string>#11</string>
+          <key>teamCode</key>
+          <string>WAS</string>
+          <key>teamName</key>
+          <string>Washington Redskins</string>
+          <key>physical</key>
+          <string>Height: 6-4   Weight: 213   Age: 34</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 5/7/1984 Seattle , WA</string>
+          <key>college</key>
+          <string>College: Utah</string>
+          <key>experience</key>
+          <string>Experience: 14th season</string>
+          <key>highSchool</key>
+          <string>High School: Helix HS [La Mesa, CA]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>17</string>
+          <key>playerName</key>
+          <string>Case Keenum</string>
+          <key>playerNumber</key>
+          <string>#4</string>
+          <key>teamCode</key>
+          <string>DEN</string>
+          <key>teamName</key>
+          <string>Denver Broncos</string>
+          <key>physical</key>
+          <string>Height: 6-1   Weight: 215   Age: 30</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 2/17/1988 Brownwood , TX</string>
+          <key>college</key>
+          <string>College: Houston</string>
+          <key>experience</key>
+          <string>Experience: 6th season</string>
+          <key>highSchool</key>
+          <string>High School: Wylie HS [Abilene, TX]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>18</string>
+          <key>playerName</key>
+          <string>Jimmy Garoppolo</string>
+          <key>playerNumber</key>
+          <string>#10</string>
+          <key>teamCode</key>
+          <string>SF</string>
+          <key>teamName</key>
+          <string>San Francisco 49ers</string>
+          <key>physical</key>
+          <string>Height: 6-2   Weight: 225   Age: 26</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 11/2/1991 Franklin Park , IL</string>
+          <key>college</key>
+          <string>College: Eastern Illinois</string>
+          <key>experience</key>
+          <string>Experience: 5th season</string>
+          <key>highSchool</key>
+          <string>High School: Rolling Meadows HS [IL]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>19</string>
+          <key>playerName</key>
+          <string>Russell Wilson</string>
+          <key>playerNumber</key>
+          <string>#3</string>
+          <key>teamCode</key>
+          <string>SEA</string>
+          <key>teamName</key>
+          <string>Seattle Seahawks</string>
+          <key>physical</key>
+          <string>Height: 5-11   Weight: 215   Age: 29</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 11/29/1988 Cincinnati , OH</string>
+          <key>college</key>
+          <string>College: Wisconsin</string>
+          <key>experience</key>
+          <string>Experience: 7th season</string>
+          <key>highSchool</key>
+          <string>High School: Collegiate School [Richmond, VA]</string>
+    </dict>
+    <dict>
+          <key>rank</key>
+          <string>20</string>
+          <key>playerName</key>
+          <string>Blake Bortles</string>
+          <key>playerNumber</key>
+          <string>#5</string>
+          <key>teamCode</key>
+          <string>JAX</string>
+          <key>teamName</key>
+          <string>Jacksonville Jaguars</string>
+          <key>physical</key>
+          <string>Height: 6-5   Weight: 236   Age: 26</string>
+          <key>birthdateAndPlace</key>
+          <string>Born: 4/28/1992 Altamonte Springs , FL</string>
+          <key>college</key>
+          <string>College: Central Florida</string>
+          <key>experience</key>
+          <string>Experience: 5th season</string>
+          <key>highSchool</key>
+          <string>High School: Oviedo HS [FL]</string>
+    </dict>
+</array>
+</plist>
